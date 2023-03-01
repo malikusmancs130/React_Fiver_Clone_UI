@@ -3,7 +3,7 @@ import CategoryCard from '../../components/categoryCard/CategoryCard'
 import Featured from '../../components/featured/Featured'
 import Slide from '../../components/slid/Slide'
 import TrustedBy from '../../components/trustedBy/TrustedBy'
-import { cards,projects } from "../../data"
+import { cards, projects } from "../../data"
 import "./homepage.scss"
 import ProjectCard from '../../components/projectCard/ProjectCard'
 
@@ -186,11 +186,11 @@ const homePage = () => {
         </div>
       </div>
 
-       <Slide slidesToShow={4} arrowsScroll={4}>
+      <Slide slidesToShow={4} arrowsScroll={4}>
         {projects.map((item) => (
           <ProjectCard key={item.id} card={item} />
         ))}
-      </Slide> 
+      </Slide>
     </div>
   );
 }

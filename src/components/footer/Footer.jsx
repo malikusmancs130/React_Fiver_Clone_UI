@@ -33,8 +33,8 @@ const Footer = () => {
             <h2>Support</h2>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Selling on Liverr</span>
-            <span>Buying on Liverr</span>
+            <span>Selling on Fiverr</span>
+            <span>Buying on fiverr</span>
           </div>
           <div className="item">
             <h2>Community</h2>
@@ -52,14 +52,14 @@ const Footer = () => {
           </div>
           <div className="item">
             <h2>More From Fiverr</h2>
-            <span>Liverr Business</span>
-            <span>Liverr Pro</span>
-            <span>Liverr Logo Maker</span>
-            <span>Liverr Guides</span>
+            <span>fiverr Business</span>
+            <span>fiverr Pro</span>
+            <span>fiverr Logo Maker</span>
+            <span>fiverr Guides</span>
             <span>Get Inspired</span>
-            <span>Liverr Select</span>
+            <span>fiverr Select</span>
             <span>ClearVoice</span>
-            <span>Liverr Workspace</span>
+            <span>fiverr Workspace</span>
             <span>Learn</span>
             <span>Working Not Working</span>
           </div>
@@ -67,8 +67,8 @@ const Footer = () => {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>liverr</h2>
-            <span>© Liverr International Ltd. 2023</span>
+            <h2>fiverr</h2>
+            <span>© fiverr International Ltd. 2023</span>
           </div>
           <div className="right">
             <div className="social">
